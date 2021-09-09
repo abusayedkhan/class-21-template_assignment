@@ -1,0 +1,46 @@
+
+/* reset css */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* comon css */
+img{
+    max-width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.sk-table{
+    padding: 5%;
+    background-color: #F8F9FA;
+}
+
+td, th{
+    border: 1px solid #5b727741;
+    text-align: center;
+}
+
+.button{
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 8px 45px;
+    border-radius: 5px;
+}
+
+.button:hover{
+    background-color: rgb(6, 110, 6);
+}
+
+.stretched{
+    background-color: #F8F9FA;
+    padding: 0px 7%;
+}
+
+footer p{
+    color: white;
+    background-color: #212529;
+    padding: 30px;
+}
